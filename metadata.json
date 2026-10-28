@@ -1,0 +1,7 @@
+{
+  "name": "TestPilot AI",
+  "description": "AI-Based Synthetic Data Generator and Autonomous Application Tester replacing manual QA with intelligent crawling, autonomous test selection, synthetic data generation, and self-healing execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
